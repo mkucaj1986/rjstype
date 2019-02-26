@@ -1,0 +1,19 @@
+.app-historynav{
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+  min-height: 80px;
+}
+.app-historynav button{
+  cursor: pointer;
+  background-color: transparent;
+  border: 1px solid #000;
+  margin: 0 10px;
+  transition: all .25s
+}
+.app-historynav button:hover{
+  background-color: #000;
+  border: 1px solid #ccc;
+  color: #fff;
+}

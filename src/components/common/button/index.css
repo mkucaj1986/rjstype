@@ -1,0 +1,11 @@
+.primary{
+  padding: 15px 20px;
+  background-color: #fff;
+  border: 1px solid #000;
+}
+.success{
+  padding: 15px 20px;
+  background-color: green;
+  color: #fff;
+  border: 1px solid #000;
+}
